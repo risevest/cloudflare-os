@@ -35,7 +35,7 @@
     "@cloudflare/vitest-pool-workers": "catalog:",
     "@gadgets/scripts": "workspace:*",
     "@types/pako": "^2.0.4",
-    "dompurify": "^3.4.13",
+    "dompurify": "^3.4.16",
     "esbuild": "^0.28.1",
     "typescript": "catalog:",
     "vitest": "catalog:",
